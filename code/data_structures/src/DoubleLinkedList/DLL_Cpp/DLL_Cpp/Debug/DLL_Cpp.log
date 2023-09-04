@@ -1,0 +1,10 @@
+﻿  DLL.cpp
+C:\Users\yuval\cosmos\code\data_structures\src\DoubleLinkedList\DLL_Cpp\DLL_Cpp\DLL.h(13,6): error C2365: 'DLL<T>::size': redefinition; previous definition was 'data member'
+C:\Users\yuval\cosmos\code\data_structures\src\DoubleLinkedList\DLL_Cpp\DLL_Cpp\DLL.h(9): message : see declaration of 'DLL<T>::size'
+C:\Users\yuval\cosmos\code\data_structures\src\DoubleLinkedList\DLL_Cpp\DLL_Cpp\DLL.h(18): message : see reference to class template instantiation 'DLL<T>' being compiled
+C:\Users\yuval\cosmos\code\data_structures\src\DoubleLinkedList\DLL_Cpp\DLL_Cpp\DLL.h(17,7): error C2059: syntax error: 'delete'
+C:\Users\yuval\cosmos\code\data_structures\src\DoubleLinkedList\DLL_Cpp\DLL_Cpp\DLL.h(17,1): error C2238: unexpected token(s) preceding ';'
+C:\Users\yuval\cosmos\code\data_structures\src\DoubleLinkedList\DLL_Cpp\DLL_Cpp\DLL.cpp(3,6): error C2955: 'DLL': use of class template requires template argument list
+C:\Users\yuval\cosmos\code\data_structures\src\DoubleLinkedList\DLL_Cpp\DLL_Cpp\DLL.h(5): message : see declaration of 'DLL'
+C:\Users\yuval\cosmos\code\data_structures\src\DoubleLinkedList\DLL_Cpp\DLL_Cpp\DLL.cpp(3,12): error C2509: '{ctor}': member function not declared in 'DLL'
+C:\Users\yuval\cosmos\code\data_structures\src\DoubleLinkedList\DLL_Cpp\DLL_Cpp\DLL.h(5): message : see declaration of 'DLL'
